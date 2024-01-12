@@ -1,0 +1,42 @@
+<html>
+    <title>Техноробот</title>
+    <body style="font-family:sans-serif;">
+        <header style="background-color:#FFA500">
+        <img src="https://www.skydesigner.me/wp-content/uploads/2017/06/tumblr_orfk42dwh81wo2jbao1_1280.png" height="120px">
+        <a href="#price" style="font-size:20px;color:#800080">Наши товары</a>
+        <a href="#contact" style="font-size:20px;color:#800080">Наши контакты</a>
+        </header>
+            <main style="background-color:#66CDAA">
+                <h1 style="color:#00008B;text-align:center;font-size:50px">Магазин техники</h1>
+                <h1 style="color:#191970;text-align:center;font-size:50px">Техноробот<br/><img src="https://papik.pro/uploads/posts/2022-01/1641370012_21-papik-pro-p-risunok-robota-strashnogo-21.png"width="400;"></h1>
+                <h2 style="font-size:25px"><b>У нас вы можете купить:Холодильник,Телевизор,Ноутбук и т.д.</b></h2>
+                <img src="https://spravedlivo.center/fotocatalog/31200115_m_ayz7_n.jpg"width="800">
+                 <h2 id="price" style="font-size:40px">Наше предложение</h2>
+                 <table style="border-collapse:collapse;border:1px solid green;">
+                <tr style="border:1px solid green;background-color:palegreen;">
+                    <td style="font-size:20px">Техника</td>
+                    <td style="font-size:20px">Цена</td>
+                </tr>
+                <tr style="border:1px solid green;background-color:palegreen;">
+                     <td style="font-size:20px">Холодильник</td>
+                     <td style="font-size:20px"> От 65 тыс</td>
+                </tr>
+                <tr style="border:1px solid green;background-color:palegreen;">
+                     <td style="font-size:20px">Ноутбук</td>
+                     <td style="font-size:20px">От 70 тыс</td>
+                </tr>
+                 </table>
+                </main>
+                <footer style="background-color:#000000;color:#FFFFFF">
+                    <p id="contact" style="font-size:20px">Наш адрес:ул.Виноградово 25</p>
+                    <p style="font-size:20px">Наш телефон:89165783147</p>
+                    <p style="font-size:20px">Наша почта:texnorobot.yandex.ru</p>
+                </footer>
+                </body>
+                </html>
+                  
+                 
+
+
+
+        
